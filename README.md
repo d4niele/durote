@@ -1,5 +1,5 @@
 # durote
-controllo dei motori di una macchinina attraverso il componenti L298N e una Adafruit HUZZAH32. Il linguaggio utilizzato è micropython
+controllo dei motori di una macchinina attraverso il componente L298N e una Adafruit HUZZAH32. Il linguaggio utilizzato è micropython
 
 collegamenti tra HUZZAH32 e L298N
 
